@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: rgb(240,219,176);
+    background: radial-gradient(circle, rgba(240,219,176,1) 0%, rgba(233,209,221,1) 100%);
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    text-align: center;
+}
+.foto-perfil{
+    margin-top: 10px;
+    width: 175px;
+    border-radius: 50%;
+}
+.marca{
+    color: #f676b6;
+    font-weight: 100;
+    font-size: 40px;
+    margin-top:35px;
+    margin-bottom: 100px;
+}
+
+.links ul{
+    list-style: none;
+    text-align: center;
+}
+.links a{
+    display: block;
+    background-color: #ffffff;
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: #f676b6;
+    border-radius: 17px;
+    font-size: 22px;
+    padding: 10px;
+    margin: 35px 10px;
+}
