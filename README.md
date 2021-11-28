@@ -6,4 +6,4 @@ Projetos que vou fazendo com o decorrer  do curso:
 <br>
 #Protótipo de Linktree para Lojas. ✔
 <br>
-#Menu de naveção simples para sites. ✔
+#Menu de navegação simples para sites. ✔
