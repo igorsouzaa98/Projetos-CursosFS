@@ -9,3 +9,5 @@ Projetos que vou fazendo com o decorrer  do curso:
 #Menu de navegação simples para sites. ✔
 <br>
 #Site Formulário de Workshop de programação. ✔ 
+<br>
+#Site de uma barbershop one page. ✔ 
