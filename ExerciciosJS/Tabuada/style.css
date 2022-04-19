@@ -1,0 +1,8 @@
+.botao{
+    text-align: center;
+    width: 400px;   
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
