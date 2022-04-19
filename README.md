@@ -11,3 +11,5 @@ Projetos que vou fazendo com o decorrer  do curso:
 #Site Formulário de Workshop de programação. ✔ 
 <br>
 #Site de uma barbershop one page. ✔ 
+<br>
+#Exercícios simples em JS 
